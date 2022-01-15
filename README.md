@@ -47,11 +47,17 @@
 | username : fauzi      |
 | password : fauzi      |
 
-
 | Staff Marketing       |
 |-----------------------|
 | username : dodi       |
 | password : dodi       |
+
+| Sales					|
+|-----------------------|
+|username : bagus		|
+|password : bagus		|
+
+
 
 ## Kritik dan Saran
 
@@ -59,11 +65,6 @@
 |------------------------------------------------------|
 | bagusbudi1308@gmail.com                              |
 
-
-## Request Fitur Baru dan Pelaporan Bug
-
-Anda dapat meminta fitur baru maupun bagmelaporkan bug melalui menu **issues** yang sudah disediakan oleh GitHub 
-(lihat menu di atas), posting issues baru dan kita akan berdiskusi disana.
 
 ## Berkontribusi
 

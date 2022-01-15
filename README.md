@@ -10,12 +10,13 @@
 
 ## Bagaimana cara menggunakan sistem ini?
 
+```
 - 1. Login dengan menggunakan akun yang telah terdaftar.
 - 2. Pilih menu yang ingin digunakan.
 - 3. Isi data yang diperlukan.
 - 4. Pilih menu yang ingin digunakan.
 - 5. Selesai.
-
+```
 
 ## Fitur Admin
 
